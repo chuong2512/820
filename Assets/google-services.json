@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "727456064386",
+    "firebase_url": "https://cut-throat---dominoes-test-default-rtdb.firebaseio.com",
+    "project_id": "cut-throat---dominoes-test",
+    "storage_bucket": "cut-throat---dominoes-test.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:727456064386:android:ed40204436558bcd0c659b",
+        "android_client_info": {
+          "package_name": "com.callisto1947games.cutthroatdominoestest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "727456064386-6os7oueh3813190tl04vi068n82d08i1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.callisto1947games.cutthroatdominoestest",
+            "certificate_hash": "29d604605b8684decfc54a93b9277302012e8ecf"
+          }
+        },
+        {
+          "client_id": "727456064386-n74cpft8f2tuf834en6l9shan0ccld6d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClDRXcpd990-H-ah_Dhu8JstLr6sOT6IU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "727456064386-n74cpft8f2tuf834en6l9shan0ccld6d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
